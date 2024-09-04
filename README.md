@@ -6,6 +6,7 @@ The "What's In My Fridge" app is a mobile application built using React Native a
 ## UI/UX
 
 Here's the figma link to see the full and completely done UI/UX for this app:
+
 https://www.figma.com/proto/qOhh5UE8TcgFxjJ4mCWr0u/What's-in-my-Fridge%3F---Prototype-DEMO-2?node-id=8-45&starting-point-node-id=44%3A1298&show-proto-sidebar=1&t=ZaU4EVvaScn5i2TX-1
 ## Features
 
