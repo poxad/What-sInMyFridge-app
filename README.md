@@ -21,7 +21,7 @@ https://www.figma.com/proto/qOhh5UE8TcgFxjJ4mCWr0u/What's-in-my-Fridge%3F---Prot
 
    ```bash
    git clone https://github.com/poxad/WhatsInMyFridge-app.git
-   cd whats-in-my-fridge
+   cd WhatsInMyFridge-app
    ```
 
 2. Install the dependencies:
