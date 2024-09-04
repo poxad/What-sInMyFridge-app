@@ -47,10 +47,6 @@ https://www.figma.com/proto/qOhh5UE8TcgFxjJ4mCWr0u/What's-in-my-Fridge%3F---Prot
 - **Explore Recipes:** Explore recipes made by other users.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 For any inquiries, please contact [your-email@example.com](jonartojason@gmail.com).
