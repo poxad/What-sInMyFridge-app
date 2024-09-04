@@ -20,7 +20,7 @@ https://www.figma.com/proto/qOhh5UE8TcgFxjJ4mCWr0u/What's-in-my-Fridge%3F---Prot
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/whats-in-my-fridge.git
+   git clone https://github.com/poxad/WhatsInMyFridge-app.git
    cd whats-in-my-fridge
    ```
 
